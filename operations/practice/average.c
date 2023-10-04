@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
+int main()
+{
     float a, b, result;
 
     printf("Enter the first note: \n");

@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     // Set variable
     int a = 20;
     int b = 40;
