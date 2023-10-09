@@ -3,6 +3,7 @@
 		"*.ejs": "html",
 		"*.jsx": "javascriptreact",
 		"time.h": "c",
-		"stdio.h": "c"
+		"stdio.h": "c",
+		"xstring": "c"
 	}
 }
