@@ -1,6 +1,3 @@
-/**
- * pt - vetor
- */
 
 #include <stdio.h>
 #define SIZE 3
@@ -55,13 +52,7 @@ int main()
 
     printf("\n\nAnother way to define\n\n");
 
-    int array2[3] = {1,
-                     2,
-                     3};
-
-    printArray(array2, SIZE);
+    char array2[SIZE][SIZE] = {'a', 'b', 'c'};
 
     return 0;
 }
-
-/* */

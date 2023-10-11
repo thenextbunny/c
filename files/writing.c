@@ -22,7 +22,7 @@ int main()
     FILE *file;
 
     // Create a file
-    file = fopen("text.txt", "w");
+    file = fopen("writing.txt", "w");
 
     if (file == NULL)
     {

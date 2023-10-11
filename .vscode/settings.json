@@ -4,6 +4,12 @@
 		"*.jsx": "javascriptreact",
 		"time.h": "c",
 		"stdio.h": "c",
-		"xstring": "c"
+		"xstring": "c",
+		"stdlib.h": "c",
+		"format": "c",
+		"initializer_list": "c",
+		"type_traits": "c",
+		"xutility": "c",
+		"stdbool.h": "c"
 	}
 }
